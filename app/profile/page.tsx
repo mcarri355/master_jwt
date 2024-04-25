@@ -15,7 +15,7 @@ const profile = async () => {
               alt=''
               height='100'
               width='125'
-              src='https://pngimg.com/uploads/dog/dog_PNG50375.png'></Image>
+              src='https://static.wikia.nocookie.net/angel-xd-drawings/images/7/76/Nerd_emoji_pose_new.png/revision/latest?cb=20230611072150'></Image>
           </a>
         </h1>
         <ul className='main-nav'>

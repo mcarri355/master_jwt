@@ -14,7 +14,7 @@ const Home = () => {
               alt=''
               height='100'
               width='125'
-              src='https://pngimg.com/uploads/dog/dog_PNG50375.png'></Image>
+              src='https://static.wikia.nocookie.net/hero-havoc/images/0/0f/Coolguy.png/revision/latest?cb=20200604090834'></Image>
           </a>
         </h1>
         <ul className='main-nav'>
