@@ -41,7 +41,7 @@ export default function SignIn() {
           </div>
         </form>
 
-        <h1 className='center'>mandre361@west-mec.org and 1234</h1>
+        <h1 className='center'>email@email.com and 12345</h1>
         <h1>
         Have an account?  <Link href='/' className='underline'>Login in</Link>
             </h1>
